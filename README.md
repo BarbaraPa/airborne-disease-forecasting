@@ -169,7 +169,7 @@ Predicting-Airborne-Disease-Spread-Using-Urban-Mobility-and-Environmental-Factor
 ### Training Loss
 
 <p align="center">
-<img src="figures/training_loss.png" width="500">
+<img src="figures/training_validation_loss.png" width="500">
 </p>
 
 ---
